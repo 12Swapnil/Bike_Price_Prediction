@@ -33,5 +33,5 @@ Contributing
 Contributions are welcome! If you have suggestions for improving the models, adding new features, or any issues to report, please feel free to open an issue or submit a pull request.
 
 Contact
-For any questions or collaborations related to this project, you can reach me at your-email@example.com.
+For any questions or collaborations related to this project, you can reach me at alangeeswapnil27@gmail.com.
 
